@@ -1,15 +1,15 @@
-* 总结
+<!-- * 总结
     * [知识点](./work/knowledge)
     * [支付宝小程序](./work/alipay)
 * html
     * [html](./list/html/html)
 * css
-    * [css](./list/css/css)
+    * [css](./list/css/css) -->
     
 * javascript
     * [基础](./list/js/js_basis)
     * [高级](./list/js/js_senior)
-* Dom/Bom
+<!-- * Dom/Bom
     * [原生dom操作](./list/Dom/dom)
     * [bom相关](./list/Dom/bom)
 * jquery
@@ -37,14 +37,14 @@
     * [vue案例](./list/vue/vue)
     * [vuex部分](./list/vue/vuex)
 * git使用
-    * [git常用指令](./list/git/git)
+    * [git常用指令](./list/git/git) -->
 * 面试题
     * [html面试题](./interview/html_interview.md)
     * [css面试题](./interview/css_interview.md)
-    * [js面试题](./interview/js_interview)
+    <!-- * [js面试题](./interview/js_interview)
     * [js代码题](./interview/js)
     * [面试题](./interview/57)
     * [小程序](./interview/wx)
     * [vue](./interview/vue)
     * [总结面试点](./interview/other)
-    * [自己面试总结](./interview/myself)
+    * [自己面试总结](./interview/myself) -->

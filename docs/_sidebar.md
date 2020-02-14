@@ -1,6 +1,11 @@
 * javascript
     * [基础](./list/js/js_basis)
     * [高级](./list/js/js_senior)
+* Dom/Bom
+    * [原生dom操作](./list/Dom/dom)
+    * [bom相关](./list/Dom/bom)
 * 面试题
     * [html面试题](./interview/html_interview.md)
     * [css面试题](./interview/css_interview.md)
+    * [js面试题](./interview/js_interview)
+    * [js代码题](./interview/js)

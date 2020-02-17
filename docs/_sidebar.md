@@ -4,8 +4,14 @@
 * Dom/Bom
     * [原生dom操作](./list/Dom/dom)
     * [bom相关](./list/Dom/bom)
+* jquery
+    * [jquery](./list/jquery/jquery)
+* 移动端部分
+    * [移动端](./list/mobile/mobile)
 * 面试题
     * [html面试题](./interview/html_interview.md)
     * [css面试题](./interview/css_interview.md)
     * [js面试题](./interview/js_interview)
     * [js代码题](./interview/js)
+    * [面试题](./interview/57)
+    * [小程序](./interview/wx)

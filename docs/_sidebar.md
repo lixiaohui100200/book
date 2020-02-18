@@ -8,6 +8,13 @@
     * [jquery](./list/jquery/jquery)
 * 移动端部分
     * [移动端](./list/mobile/mobile)
+* http协议
+    * [http协议](./list/http/http)
+    * [浏览器缓冲机制](./list/http/hc)
+* 正则表达式 
+    * [正则表达式](./list/zhengze/zhengze)
+* node 
+    * [node部分](./list/node/node)
 * 面试题
     * [html面试题](./interview/html_interview.md)
     * [css面试题](./interview/css_interview.md)

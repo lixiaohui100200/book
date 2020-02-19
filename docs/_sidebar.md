@@ -15,6 +15,11 @@
     * [正则表达式](./list/zhengze/zhengze)
 * node 
     * [node部分](./list/node/node)
+* ES6
+    * [ES6语法](./list/es6/es6)
+* webpack
+    * [webpack基本配置](./list/webpack/webpack)
+    * [具体配置项](./list/webpack/peizhi)
 * 面试题
     * [html面试题](./interview/html_interview.md)
     * [css面试题](./interview/css_interview.md)
@@ -22,3 +27,4 @@
     * [js代码题](./interview/js)
     * [面试题](./interview/57)
     * [小程序](./interview/wx)
+    * [vue](./interview/vue)
